@@ -1,0 +1,2 @@
+# whisper-transcript0r
+ 
