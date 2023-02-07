@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "conda": "^0.0.1-a17",
+    "ffmpeg": "^0.0.4",
+    "python3": "^0.0.1",
+    "youtube-dl-exec": "^2.1.11"
+  }
+}
